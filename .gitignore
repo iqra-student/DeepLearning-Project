@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+dist/
+
+# Data & outputs (too big for GitHub)
+ml/data/
+runs/
+*.db
+*.safetensors
+*.bin
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
